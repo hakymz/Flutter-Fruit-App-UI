@@ -1,4 +1,4 @@
-# food_ui
+# fruit_ui
 
 A new Flutter project.
 
